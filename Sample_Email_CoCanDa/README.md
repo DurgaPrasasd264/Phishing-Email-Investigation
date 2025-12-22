@@ -38,8 +38,6 @@ A suspicious email related to the abduction incidents on planet CoCanDa was rece
 - Inside the archive, a `.eml` email file was identified for analysis.
 
 ![Alt Text](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/5e9e752d8ddae603754b90ce74bd1782ae089c44/images/image1.png)
-![Alt Text](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/5e9e752d8ddae603754b90ce74bd1782ae089c44/images/image10.png)
-![Alt Text](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/5e9e752d8ddae603754b90ce74bd1782ae089c44/images/image11.png)
 ---
 
 ### 2️⃣ Sender & Reply-To Analysis
