@@ -37,7 +37,7 @@ A suspicious email related to the abduction incidents on planet CoCanDa was rece
 - The email sample ZIP file was extracted in an isolated virtual machine.
 - Inside the archive, a `.eml` email file was identified for analysis.
 
-![Alt Text (Description of the image)]()
+![Alt Text (Description of the image)](images/image1.png)
 
 ---
 
