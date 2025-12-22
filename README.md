@@ -16,21 +16,23 @@ The goal is to analyze a suspicious email, identify malicious indicators, and de
 ---
 
 ## 🛠 Tools Used
-- Email Header Analyzer
-- VirusTotal
-- URLScan.io
-- WHOIS Lookup
-- CyberChef
+- [Email Header Analyzer](https://toolbox.googleapps.com/apps/emailheader/)
+- [VirusTotal](https://www.virustotal.com/)
+- [URLScan.io](https://urlscan.io/)
+- [WHOIS Lookup](https://whois.domaintools.com/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+
 
 ---
 
 ## 🔍 Investigation Steps
-1. Email header analysis
-2. Body content inspection
-3. URL reputation analysis
-4. Attachment behavior analysis
-5. IOC extraction
-6. Final verdict
+🔍 Investigation Steps
+1. **Email header analysis** – Identify the sender IP, SPF, DKIM, and DMARC records
+2. **Body content inspection** – Look for social engineering cues
+3. **URL reputation analysis** – Check if embedded links are malicious
+4. **Attachment behavior analysis** – Scan for malware hashes or sandbox execution
+5. **IOC extraction** – Collect all Indicators of Compromise
+6. **Final verdict** – Determine if the email is phishing or legitimate
 
 ---
 
