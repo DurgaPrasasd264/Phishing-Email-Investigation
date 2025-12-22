@@ -43,13 +43,15 @@ A suspicious email related to the abduction incidents on planet CoCanDa was rece
 ### 2️⃣ Sender & Reply-To Analysis
 - The sender email domain differed from the reply-to email address.
 - This mismatch indicates **email spoofing**, a common phishing technique.
-- [E](CoCanDa_Phishing_Email/README.md)
+- [**Email Content**](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/acd73d56d476a6df25bc8cc00d709d8887d15191/Sample_Email_CoCanDa/A%20Hope%20to%20CoCanDa.eml)
 
 ---
 
 ### 3️⃣ Email Content Analysis
 - The email body contained a **ransom demand**, requesting money.
 - The message used fear and urgency, indicating **social engineering**.
+- [**Email Content**](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/acd73d56d476a6df25bc8cc00d709d8887d15191/Sample_Email_CoCanDa/A%20Hope%20to%20CoCanDa.eml)
+
 
 ---
 
