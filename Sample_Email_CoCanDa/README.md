@@ -43,6 +43,7 @@ A suspicious email related to the abduction incidents on planet CoCanDa was rece
 ### 2️⃣ Sender & Reply-To Analysis
 - The sender email domain differed from the reply-to email address.
 - This mismatch indicates **email spoofing**, a common phishing technique.
+- [E](CoCanDa_Phishing_Email/README.md)
 
 ---
 
@@ -98,6 +99,7 @@ A suspicious email related to the abduction incidents on planet CoCanDa was rece
 - The final folder contained a location and instructions demanding money delivery.
 ![Alt Text](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/5e9e752d8ddae603754b90ce74bd1782ae089c44/images/image9.png)
 ![Alt Text](https://github.com/DurgaPrasasd264/Phishing-Email-Investigation/blob/5e9e752d8ddae603754b90ce74bd1782ae089c44/images/image10.png)
+
 ---
 
 ## 🚨 Indicators of Compromise (IOCs)
