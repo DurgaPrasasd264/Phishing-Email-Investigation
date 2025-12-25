@@ -58,7 +58,7 @@ The email demonstrates multiple phishing characteristics including spoofed sende
 ---
 
 📩 **Phishing Email Investigation**  
-👉 [View detailed analysis](Phishing-Email-Investigation/Sample_Email_CoCanDa/README.md)
+👉 [View detailed analysis](Sample_Email_CoCanDa/README.md)
 
 ---
 
